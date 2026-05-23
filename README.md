@@ -4,7 +4,7 @@
 
 ## Live demo
 
-https://tukangpromptofficial.github.io/Gravity-Simulator/
+https://tukangpromptofficial.github.io/gravity-simulator/
 
 ## Scenes
 
